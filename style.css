@@ -46,3 +46,22 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.container {
+	margin-inline: auto;
+	max-width: 800px;
+}
+
+header, footer {
+	font-size: 16px;
+	padding: 1.5rem;
+	background-color: #20587f;
+}
+
+.container div {
+	padding: 30px;
+}
+
+.pd-20 {
+	padding: 20px;
+}
